@@ -10,6 +10,8 @@ enableRobotsTXT = true
 googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 
+canonifyURLs = true
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
