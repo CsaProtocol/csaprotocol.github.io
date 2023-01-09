@@ -18,7 +18,7 @@ series:
 ---
 The primary goal of cyber security is to safeguard the computer environment of a company or user against attacks launched by malicious web surfers. There are various tools that researchers and security experts can use to protect the network they use, one of which is the “honeypot”. A honeypot is a computer configured to seem normal to an attacker that logs attack patterns and what the attacker does. These logs are then used by security experts to enhance the network’s security. In this paper, I’m going to create a honeypot for brute-force attacks using Azure, a cloud computing service operated by Microsoft. (Brute-force attacks consist of an attacker submitting passwords hoping to eventually guess correctly).
 
-![Azure1](assets/2022-11-15-mapping-bruteforce-attacks-on-azure/azure1.jpeg)
+![Azure1](https://github.com/CsaProtocol/csaprotocol.github.io/blob/main/content/posts/assets/2022-11-15-mapping-bruteforce-attacks-on-azure/azure1.jpeg?raw=true)
 
 First of all, I’ll create a Windows 10 virtual machine to put online without any real way of defending itself, except for its password; I will disable every firewall, including the default one for Windows, “Microsoft Defender Firewall”. As the admin username, I won’t choose the default “administrator”, but something else. This way the virtual machine can also log the usernames that malicious users will try and I will drastically reduce the probability of a successful attack against the machine itself, because malicious users will have to guess the username, too.
 
