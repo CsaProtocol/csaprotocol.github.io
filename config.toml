@@ -44,7 +44,7 @@ canonifyURLs = true
 [params]
     since = 2022
     author = "CsaProtocol"               # Author's name
-    subtitle = "Cybersecurity blog"       # Subtitle
+    subtitle = "Stay ahead of cyber threats with the latest research and best practices in cybersecurity. Find out more on our cybersecurity research blog."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
