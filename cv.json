@@ -22,130 +22,106 @@
   ],
   "skills": [
     {
-      "name": "Figma",
+      "name": "Rust",
+      "level": "Intermediate",
+      "keywords": [
+        "Systems Programming",
+        "Concurrency",
+        "Memory Safety"
+      ]
+    },
+    {
+      "name": "Cpp",
       "level": "Expert",
       "keywords": [
-        "Design",
-        "UI"
+        "Object-Oriented Programming",
+        "Performance",
+        "Systems Programming"
       ]
     },
     {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
+      "name": "PL/pgSQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
         "SQL",
-        "Data Storage",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "Queries",
+        "Data Management"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Object-Oriented Programming",
+        "Web Development",
         "Backend"
       ]
     },
     {
-      "name": "Git",
+      "name": "Microsoft PowerShell",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Automation",
+        "Scripting",
+        "Windows"
       ]
     },
     {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
+      "name": "Erlang",
       "level": "Beginner",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Concurrency",
+        "Distributed Systems",
+        "Functional Programming"
       ]
     },
     {
-      "name": "React",
+      "name": "JavaFX",
+      "level": "Beginner",
+      "keywords": [
+        "GUI Development",
+        "Java",
+        "Desktop Applications"
+      ]
+    },
+    {
+      "name": "Prolog",
+      "level": "Beginner",
+      "keywords": [
+        "Logic Programming",
+        "AI",
+        "Declarative Programming"
+      ]
+    },
+    {
+      "name": "Standard ML",
+      "level": "Beginner",
+      "keywords": [
+        "Functional Programming",
+        "Type Systems",
+        "Compiler Design"
+      ]
+    },
+    {
+      "name": "Python",
       "level": "Intermediate",
       "keywords": [
+        "Scripting",
         "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Data Science",
+        "Automation"
       ]
     }
-  ],
+  ]
   "languages": [
     {
       "language": "English",
